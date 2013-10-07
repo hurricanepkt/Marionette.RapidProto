@@ -25,6 +25,7 @@ Needed templates :
 
 
 Initialize the app
+
 	$(document).ready(function () {
         App.start();
     });
